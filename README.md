@@ -9,3 +9,6 @@ App de registro de productos, funcionalidad:
       * Actualizacion de la informacion de producto, exceptuando el ID.
       * Agregado de productos: ID, Nombre, Descripcion, Categoria, Cantidad, Precio, Id de Referencia (Puede ser nulo).
       * Conteo de todos los productos registrados.
+
+API CONSUMIDA:
+https://github.com/Jofreylin/FinalProg2Api
